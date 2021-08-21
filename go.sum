@@ -1,0 +1,8 @@
+github.com/akamensky/argparse v1.3.1 h1:kP6+OyvR0fuBH6UhbE6yh/nskrDEIQgEA1SUXDPjx4g=
+github.com/akamensky/argparse v1.3.1/go.mod h1:S5kwC7IuDcEr5VeXtGPRVZ5o/FdhcMlQz4IZQuw64xA=
+github.com/asmcos/requests v0.0.0-20210319030608-c839e8ae4946 h1:1B8lZnGJOS3E7LumjuY6lb2NzXy8vBY6N2ag/IK6JdI=
+github.com/asmcos/requests v0.0.0-20210319030608-c839e8ae4946/go.mod h1:2W5PB6UTVRBypeouEebhwOJrDZOfJvPwMP1mtD8ZXM4=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/matishsiao/goInfo v0.0.0-20200404012835-b5f882ee2288 h1:cdM7et8/VlNnSBpq3KbyQWsYLCY0WsB7tvV8Fr0DUNE=
+github.com/matishsiao/goInfo v0.0.0-20200404012835-b5f882ee2288/go.mod h1:yLZrFIhv+Z20hxHvcZpEyKVQp9HMsOJkXAxx7yDqtvg=
